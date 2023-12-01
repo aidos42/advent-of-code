@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Solutions to Advent of Code puzzles (adventofcode.com)",
+  "keywords": [],
+  "author": "Aidos Smagulov",
+  "license": "ISC"
+}
